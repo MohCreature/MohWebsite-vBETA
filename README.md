@@ -1,7 +1,7 @@
 # Moh Creature Website
 Moh Creature Website 
 
-[![](https://img.shields.io/badge/author-@MohCreature-red.svg?style=flat)](https://twitter.com/MohCreature) [![](https://img.shields.io/badge/discord-Moh-Creature-blue.svg?style=flat)](https://discord.gg/EJgzrteXHU) [![](https://img.shields.io/badge/build-html css-success.svg?style=flat)]
+[![](https://img.shields.io/badge/author-@MohCreature-red.svg?style=flat)](https://twitter.com/MohCreature) [![](https://img.shields.io/badge/discord-Moh-Creature-blue.svg?style=flat)](https://discord.gg/EJgzrteXHU) [![](https://img.shields.io/badge/build-html-css-success.svg?style=flat)]
 
 **Decentralized store of value that can be claimed in the future through NFTs**
 
