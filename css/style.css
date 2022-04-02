@@ -1073,11 +1073,11 @@ h2{
 .black-block{
   padding-top:5%;
   padding-bottom:3.5%;
-    -webkit-background-size: cover;
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background:   fixed center center;
+  background: fixed center center;
   background-size: cover;
 }
 
